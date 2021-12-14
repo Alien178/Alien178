@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20ntebook,c%23,javascript,css,scss,html&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/acen20/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien178&layout=compact&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/Alien178/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien178&layout=compact&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/Alien178/)
 
 
     
